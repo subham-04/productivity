@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Josefin+Slab&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif !important;
+    line-height: 1.5rem;
+}
+img{
+    margin: 1rem 0;
+    max-height: 18rem;
+}
+p{
+    background-size: cover;
+    overflow: hidden;
+}
+b{
+    color: #751fff;
+}
+.margin{
+    margin-bottom: 1.9rem;
+}
+hr{
+    padding: 0.5rem 0;
+    border-style: none;
+    border-top: dotted;
+    border-width: 0.4rem;
+    width: 40%;
+    color: #00a19d;
+    
+}
+.wrapper{
+    height: 25rem;
+    width: 25rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 0.98rem;
+}
+.creator{
+    text-transform: uppercase;
+  }
+  ul{
+    margin: 0.5rem 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .footer{
+    color: #751fff;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.91rem;
+  }
+  .social{
+    padding-inline: 8px;
+    text-decoration: none;
+    
+  }
+  i{
+    font-size: 1.1rem;
+  }
+  .social-link{
+    transition-duration: 0.312s;
+    color: #751fff;
+    text-decoration: none;
+  }
+
+  #github:hover{
+    color: #202124;
+  }
+  #email:hover{
+    color: rgb(205,59,46);
+  }
+  #instagram:hover{
+    color: #E1306C;
+  }
+  #linkedin:hover{
+    color: #0d71c4;
+  }
+  .footer-description{
+    text-align: center;
+    font-size: 0.8rem;
+  }
