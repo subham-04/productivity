@@ -1,7 +1,5 @@
 # productivity
 
-For better experience recomended to open via Desktop only
-
 
 <br>
 
