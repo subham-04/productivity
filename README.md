@@ -3,9 +3,9 @@
 
 <br>
 
-- Preview 
+- extension details 
 
 <br>
 
 
-![App Screenshot](https://github.com/subham-04/speed-typer/blob/main/speed%20typer.png)
+![App Screenshot](https://github.com/subham-04/productivity/blob/main/128.png)
