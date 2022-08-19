@@ -23,4 +23,4 @@ People who seem to have tough time during their work hours, student who cannot f
 
 ## Guides
 
-![App Screenshot](https://github.com/subham-04/productivity/blob/main/128.png)
+![App Screenshot](https://github.com/subham-04/productivity/blob/main/p.png)
