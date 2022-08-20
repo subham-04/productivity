@@ -19,7 +19,7 @@ People who seem to have tough time during their work hours, student who cannot f
 - Live streaming sites like - Youtube, Twitch, etc.
 - Entertainment sites like - Netflix, Hulu, Amazon prime, etc.
 - Social media sites like - Facebook, Instagram, Reddit, etc.
-- Adult sites like - (Better not to be mentioned cause the list is too long and the developer has the vast range of collection)
+- Adult sites like - (Better not to be mentioned cause the list is too long and the developer has a vast range of collection)
 
 ## Guides
 
