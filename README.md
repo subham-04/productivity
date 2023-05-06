@@ -6,7 +6,7 @@
 
 ![App Screenshot](https://github.com/subham-04/productivity/blob/main/128.png)
 
-#Install it
+# Install it
 <br>
 Link: https://microsoftedge.microsoft.com/addons/detail/color-dropper/bhfkmiohmchojgngnpldlefegdfodbam
 
